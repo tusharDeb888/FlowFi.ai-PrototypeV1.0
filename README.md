@@ -42,12 +42,12 @@ Data Visualization: Plotly
 Data Handling: Pandas
 
 🚀 Getting Started
-This entire application is self-contained in a Google Colab notebook. You can run it with a single click—no local installation required!
+This entire application is self-contained in a Google Colab notebook. You can run it with a single click—no local installation required! No API Key required.
 
 How to Run:
 Click the "Open in Colab" button above.
 
-In the Colab notebook, run the first (and only) code cell.
+In the Colab notebook, click Runn all btn.
 
 Wait for the dependencies to install and the models to load (this can take a few minutes).
 
@@ -62,10 +62,12 @@ FlowFi.ai is currently a prototype. Here are some planned features for future ve
 
 [ ] Enhanced Analytics: Implement automatic trend detection and saving suggestions.
 
-[ ] Mobile-First UI: Further refine the UI for an even better mobile experience.
+[ ] Mobile-First UI: Further refine the UI for an even better mobile experience using Flutter.
 
+[ ] Add different types of expenses using voice assistent like google, siri, alexa etc.
 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+or email tushardebclg2002@gmail.com
 
 📜 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
