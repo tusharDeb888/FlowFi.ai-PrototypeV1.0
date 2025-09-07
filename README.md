@@ -45,7 +45,7 @@ FlowFi.ai is fully contained within a **Google Colab notebook**. No setup or ins
 3. Wait for dependencies to install and models to load.  
 4. A public **Gradio link** will appear in the output.  
 5. Click the link to open FlowFi.ai in your browser and start managing expenses!  
-
+**Huggingface spaces**: https://huggingface.co/spaces/tushar888/FlowFI.ai
 ***
 
 ### 🗺️ Roadmap
