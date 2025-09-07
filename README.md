@@ -1,4 +1,4 @@
-***# FlowFi.ai - Intelligent Expense Manager (Prototype V1.0)***
+# FlowFi.ai - Intelligent Expense Manager (Prototype V1.0)
 
 FlowFi.ai is a **smart, voice-first expense manager** that makes tracking and understanding your finances effortless. Log your expenses by speaking, edit them in a clean interface, and chat with an AI analyst to gain insights into your spending habits—all in one tool.  
 
@@ -69,5 +69,3 @@ We welcome contributions, issues, and feature requests!
 This project is licensed under the **MIT License** – see the [LICENSE.md](LICENSE.md) file for details.  
 
 ***
-
-Would you like me to also create a **badges section** (Tech Stack, License, Colab Launch) at the top of your README for a more professional look?
