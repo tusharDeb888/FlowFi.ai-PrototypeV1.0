@@ -17,10 +17,10 @@ FlowFi.ai is a **smart, voice-first expense manager** that makes tracking and un
 
 ***
 
-### 🖼️ Screenshots
+### 🖼️ Screenshot
  
 
-- <img width="1863" height="850" alt="image" src="https://github.com/user-attachments/assets/edbbfe9c-c419-4a73-ab2a-2cfe56fdeb77" />
+ <img width="1863" height="850" alt="image" src="https://github.com/user-attachments/assets/edbbfe9c-c419-4a73-ab2a-2cfe56fdeb77" />
  
 ***
 
