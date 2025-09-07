@@ -1,73 +1,73 @@
-# FlowFi.ai-PrototypeV1.0
+***# FlowFi.ai - Intelligent Expense Manager (Prototype V1.0)***
 
-FlowFi.ai - Your Intelligent Expense Manager (Prototype V1.0)
-Tired of tedious expense tracking? FlowFi.ai is a smart, voice-first expense manager that uses AI to make logging and understanding your finances effortless. Simply speak your expenses, edit them in a clean interface, and chat with an AI analyst to gain insights into your spending habits.
+FlowFi.ai is a **smart, voice-first expense manager** that makes tracking and understanding your finances effortless. Log your expenses by speaking, edit them in a clean interface, and chat with an AI analyst to gain insights into your spending habits—all in one tool.  
 
-✨ Core Features
-🎙️ Voice-First Input: Uses OpenAI's Whisper to accurately transcribe and categorize expenses from your voice.
+***
 
-✍️ Manual & Editable Entries: Full CRUD (Create, Read, Update, Delete) functionality for your expenses through an interactive table.
+### ✨ Core Features
 
-📊 Interactive Dashboard: Get a quick overview of your finances with dashboard cards for Total Spend and Average Transaction.
+- 🎙️ **Voice-First Input**: Uses OpenAI Whisper to transcribe and categorize expenses directly from your voice.  
+- ✍️ **Manual & Editable Entries**: Full CRUD (Create, Read, Update, Delete) functionality via an interactive expense table.  
+- 📊 **Interactive Dashboard**: Quick overview with dashboard cards for *Total Spend* and *Average Transaction*.  
+- 📈 **Multiple Visualizations**:  
+  - Expense Breakdown (Pie Chart)  
+  - Spending by Category (Bar Chart)  
+  - Spending Over Time (Line Chart)  
+- 🚨 **Custom Budget Alerts**: Set monthly budgets per category and get alerts when nearing or exceeding limits.  
+- 🤖 **AI-Powered Chatbot (RAG)**: Chat with your data! Ask questions, perform calculations, and view filtered expense tables.  
 
-📈 Multiple Visualizations: Understand your spending patterns at a glance with three distinct charts:
+***
 
-Expense Breakdown (Pie Chart)
+### 🛠️ Tech Stack
 
-Spending by Category (Bar Chart)
+- **Backend & UI**: Python, Gradio  
+- **AI & Machine Learning**:  
+  - ASR: OpenAI Whisper  
+  - RAG Pipeline: LangChain  
+  - Vector Search: FAISS (Facebook AI Similarity Search)  
+  - LLM: Google Flan-T5-Base  
+  - Embeddings: `BAAI/bge-base-en-v1.5`  
+- **Data Visualization**: Plotly  
+- **Data Handling**: Pandas  
 
-Spending Over Time (Line Chart)
+***
 
-🚨 Custom Budget Alerts: Set monthly budgets for different categories and receive alerts when you're nearing or have exceeded them.
+### 🚀 Getting Started
 
-🤖 AI-Powered Chatbot (RAG): Chat with your data! Our Retrieval-Augmented Generation (RAG) chatbot can answer complex questions, perform calculations, and even show filtered tables of your expenses.
+FlowFi.ai is fully contained within a **Google Colab notebook**. No setup or installation required.  
 
-🛠️ Tech Stack
-Backend & UI: Python, Gradio
+**Steps to Run:**  
+1. Click the **“Open in Colab”** button in the repository.  
+2. In Colab, click **Run All**.  
+3. Wait for dependencies to install and models to load.  
+4. A public **Gradio link** will appear in the output.  
+5. Click the link to open FlowFi.ai in your browser and start managing expenses!  
 
-AI & Machine Learning:
+***
 
-ASR: OpenAI Whisper
+### 🗺️ Roadmap
 
-RAG Pipeline: LangChain
+Planned features for future versions:  
+- [ ] Persistent Database (e.g., Firebase or Supabase) for permanent data storage.  
+- [ ] User Authentication with private accounts.  
+- [ ] Enhanced Analytics with auto trend detection and saving suggestions.  
+- [ ] Mobile-First UI optimized with Flutter.  
+- [ ] Voice Assistant Integrations (Google Assistant, Siri, Alexa).  
 
-Vector Search: FAISS (Facebook AI Similarity Search)
+***
 
-LLM: Google's Flan-T5-Base
+### 🤝 Contributing
 
-Embeddings: BAAI/bge-base-en-v1.5
+We welcome contributions, issues, and feature requests!  
+- Submit issues via the repository’s **Issues** tab.  
+- Contact: [tushardebclg2002@gmail.com](mailto:tushardebclg2002@gmail.com)  
 
-Data Visualization: Plotly
+***
 
-Data Handling: Pandas
+### 📜 License
 
-🚀 Getting Started
-This entire application is self-contained in a Google Colab notebook. You can run it with a single click—no local installation required! No API Key required.
+This project is licensed under the **MIT License** – see the [LICENSE.md](LICENSE.md) file for details.  
 
-How to Run:
-Click the "Open in Colab" button above.
+***
 
-In the Colab notebook, click Runn all btn.
-
-Wait for the dependencies to install and the models to load (this can take a few minutes).
-
-A public Gradio link will appear in the output. Click it to open the FlowFi.ai application in your browser!
-
-🗺️ Roadmap (Future Work)
-FlowFi.ai is currently a prototype. Here are some planned features for future versions:
-
-[ ] Persistent Database: Replace the temporary JSON file with a cloud database like Firebase or Supabase for permanent storage.
-
-[ ] User Authentication: Allow multiple users to have their own private accounts.
-
-[ ] Enhanced Analytics: Implement automatic trend detection and saving suggestions.
-
-[ ] Mobile-First UI: Further refine the UI for an even better mobile experience using Flutter.
-
-[ ] Add different types of expenses using voice assistent like google, siri, alexa etc.
-🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-or email tushardebclg2002@gmail.com
-
-📜 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+Would you like me to also create a **badges section** (Tech Stack, License, Colab Launch) at the top of your README for a more professional look?
