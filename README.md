@@ -1,5 +1,5 @@
 
-# FlowFi.ai - Intelligent Expense Manager (Prototype V1.0)  
+# ***FlowFi.ai - Intelligent Expense Manager (Prototype V1.0)***  
 FlowFi.ai is a **smart, voice-first expense manager** that makes tracking and understanding your finances effortless. Log your expenses by speaking, edit them in a clean interface, and chat with an AI analyst to gain insights into your spending habits—all in one tool.  
 
 ***
