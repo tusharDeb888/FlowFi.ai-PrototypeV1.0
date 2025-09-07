@@ -1,11 +1,10 @@
-# FlowFi.ai - Intelligent Expense Manager (Prototype V1.0)
 
+# FlowFi.ai - Intelligent Expense Manager (Prototype V1.0)  
 FlowFi.ai is a **smart, voice-first expense manager** that makes tracking and understanding your finances effortless. Log your expenses by speaking, edit them in a clean interface, and chat with an AI analyst to gain insights into your spending habits—all in one tool.  
 
 ***
 
 ### ✨ Core Features
-
 - 🎙️ **Voice-First Input**: Uses OpenAI Whisper to transcribe and categorize expenses directly from your voice.  
 - ✍️ **Manual & Editable Entries**: Full CRUD (Create, Read, Update, Delete) functionality via an interactive expense table.  
 - 📊 **Interactive Dashboard**: Quick overview with dashboard cards for *Total Spend* and *Average Transaction*.  
@@ -18,8 +17,14 @@ FlowFi.ai is a **smart, voice-first expense manager** that makes tracking and un
 
 ***
 
-### 🛠️ Tech Stack
+### 🖼️ Screenshots
+ 
 
+- <img width="1863" height="850" alt="image" src="https://github.com/user-attachments/assets/edbbfe9c-c419-4a73-ab2a-2cfe56fdeb77" />
+ 
+***
+
+### 🛠️ Tech Stack
 - **Backend & UI**: Python, Gradio  
 - **AI & Machine Learning**:  
   - ASR: OpenAI Whisper  
@@ -33,9 +38,7 @@ FlowFi.ai is a **smart, voice-first expense manager** that makes tracking and un
 ***
 
 ### 🚀 Getting Started
-
 FlowFi.ai is fully contained within a **Google Colab notebook**. No setup or installation required.  
-
 **Steps to Run:**  
 1. Click the **“Open in Colab”** button in the repository.  
 2. In Colab, click **Run All**.  
@@ -46,7 +49,6 @@ FlowFi.ai is fully contained within a **Google Colab notebook**. No setup or ins
 ***
 
 ### 🗺️ Roadmap
-
 Planned features for future versions:  
 - [ ] Persistent Database (e.g., Firebase or Supabase) for permanent data storage.  
 - [ ] User Authentication with private accounts.  
@@ -57,7 +59,6 @@ Planned features for future versions:
 ***
 
 ### 🤝 Contributing
-
 We welcome contributions, issues, and feature requests!  
 - Submit issues via the repository’s **Issues** tab.  
 - Contact: [tushardebclg2002@gmail.com](mailto:tushardebclg2002@gmail.com)  
@@ -65,7 +66,6 @@ We welcome contributions, issues, and feature requests!
 ***
 
 ### 📜 License
-
 This project is licensed under the **MIT License** – see the [LICENSE.md](LICENSE.md) file for details.  
 
 ***
